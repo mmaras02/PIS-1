@@ -8,6 +8,7 @@ namespace lab1a
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("heloo!");
+            Console.WriteLine("Mia glupa si pt2");
         }
     }
 }
