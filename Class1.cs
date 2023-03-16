@@ -6,5 +6,6 @@ namespace lab1a
 {
     class Class1
     {
+        void metodaZaMijuuu() {}
     }
 }
