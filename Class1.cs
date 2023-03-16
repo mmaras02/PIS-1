@@ -8,5 +8,6 @@ namespace lab1a
     {
         void metodaZaMijuuu() {}
         void function() { }
+        Console.WriteLine(".");
     }
 }
